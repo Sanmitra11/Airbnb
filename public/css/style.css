@@ -100,3 +100,8 @@ text-decoration: underline;
     border: red  !important;
   }
   
+  /* Map */
+  #map {
+    height: 400px;
+    width: 80vh;
+  }
